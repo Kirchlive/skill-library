@@ -1,0 +1,29 @@
+{
+  "name": "skill-library",
+  "owner": {
+    "name": "Kirchlive",
+    "url": "https://github.com/Kirchlive"
+  },
+  "plugins": [
+    {
+      "name": "skill-library",
+      "source": "./",
+      "description": "Fifteen standalone skills with no plugin equivalent: media generation, document and data work, code documentation, UI review, and workflow governance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kirchlive",
+        "url": "https://github.com/Kirchlive"
+      },
+      "repository": "https://github.com/Kirchlive/skill-library",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "documentation",
+        "data-analysis",
+        "media-generation",
+        "workflow"
+      ]
+    }
+  ]
+}

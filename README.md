@@ -1,6 +1,6 @@
 # skill-library
 
-Fifteen Claude Code skills that have no equivalent in any published plugin, bundled as one installable plugin.
+Seventeen Claude Code skills that have no equivalent in any published plugin, bundled as one installable plugin.
 
 ## Install
 
@@ -42,6 +42,8 @@ Fifteen Claude Code skills that have no equivalent in any published plugin, bund
 |---|---|
 | `web-design-guidelines` | Reviews UI code against the Web Interface Guidelines. |
 | `master-wave-governance` | Planning-and-execution protocol for repositories using MASTERPLAN/wave governance. |
+| `skill-routing` | Picks the skills a task needs and loads them before the work starts. |
+| `browser` | Drives the user's real, logged-in browser through the claude-browser MCP tools. |
 | `opentabs` | Works with the browser's open tabs. |
 | `think-in-config-language` | Makes extended thinking follow the `language` setting in the Claude Code config. |
 | `surprise-me` | Discovers something in the current context and builds an unexpected demo from it. |

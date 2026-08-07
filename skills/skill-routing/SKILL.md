@@ -35,7 +35,7 @@ One check at conversation start decays. Once a workflow skill is engaged, later 
 
 ## 3. Select
 
-1. **Family before name.** Match the task to a family, then pick one skill inside it. See [references/inventory-map.md](references/inventory-map.md) for the map of this install, the five name collisions, and which skills are themselves routers.
+1. **Family before name.** Match the task to a family, then pick one skill inside it. See [references/inventory-map.md](references/inventory-map.md) for the map of this install, the precedence rules for colliding triggers, the skills whose access is dead, and which skills are themselves routers.
 2. **Layer, do not pile.** A process skill first — it sets the method — then at most one domain skill that does the work, then at most one style or output skill. Governance protocols outrank generic planning skills.
 3. **One family, one skill.** Two members of the same family give Claude two competing methods for one job.
 4. **Cap at two, three at the absolute most.** Each invoked skill stays in context for the rest of the session, so every extra one is a permanent tax and a competing set of instructions.

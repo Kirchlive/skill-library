@@ -1,5 +1,6 @@
 {
   "name": "skill-library",
+  "description": "Seventeen Claude Code skills that have no equivalent in any published plugin, bundled as one installable plugin: media generation, document and data work, code documentation, UI review, and workflow governance.",
   "owner": {
     "name": "Kirchlive",
     "url": "https://github.com/Kirchlive"

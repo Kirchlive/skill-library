@@ -1,6 +1,6 @@
 {
   "name": "skill-library",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Eighteen standalone skills with no plugin equivalent: media generation, document and data work, code documentation, UI review, and workflow governance.",
   "author": {
     "name": "Kirchlive",

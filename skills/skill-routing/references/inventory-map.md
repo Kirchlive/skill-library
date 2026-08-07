@@ -1,6 +1,6 @@
 # Inventory map
 
-Every installed skill, one row each. Generated from the `SKILL.md` frontmatter of all enabled plugins on 2026-08-02: 151 skills across 34 plugins.
+Every installed skill, one row each. Generated from the `SKILL.md` frontmatter of all enabled plugins on 2026-08-02: 152 skills across 34 plugins.
 
 **Columns.** `skill` is the invocation name — use `/plugin:skill` when a name appears twice. `family` groups substitutes: pick **one** skill per family per task. `status` is a controlled value:
 
@@ -75,6 +75,7 @@ Every installed skill, one row each. Generated from the `SKILL.md` frontmatter o
 | firecrawl-crawl | firecrawl | research | dead: firecrawl CLI | whole site |
 | last30days | last30days | research | needs: SCRAPECREATORS_API_KEY | 30 days of social and market chatter; run `--doctor` first |
 | consulting-analysis | skill-library | research | | structure findings into a report; does not research |
+| context7-mcp | skill-library | research | needs: context7 MCP | current library and framework docs via `resolve-library-id` then `query-docs`; one concept per query |
 | browser | skill-library | browser | preferred | drive the real browser via claude-browser MCP |
 | opentabs | skill-library | browser | dead: MCP server not configured | same over the OpenTabs MCP |
 | frontend-design | frontend-design | design | preferred | visual direction for new UI |

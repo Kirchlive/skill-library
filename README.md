@@ -1,6 +1,6 @@
 # skill-library
 
-Seventeen Claude Code skills that have no equivalent in any published plugin, bundled as one installable plugin.
+Eighteen Claude Code skills that have no equivalent in any published plugin, bundled as one installable plugin.
 
 ## Install
 
@@ -34,6 +34,7 @@ Seventeen Claude Code skills that have no equivalent in any published plugin, bu
 |---|---|
 | `code-documentation` | Generates and improves documentation for code. |
 | `good-docs-writer` | Writing guidance for documentation. |
+| `context7-mcp` | Fetches current library and framework documentation through the Context7 MCP instead of relying on training data. |
 | `skill-reviewer` | Reviews skill packages for readiness, triggers, safety boundaries, resources, and evals. |
 
 ### Interface and workflow
